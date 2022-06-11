@@ -422,6 +422,49 @@ footer img{
     width: 100%;
 }
 
+.maincra1_incorrecto{
+    color: red;
+}
+
+.maincra1_correcto{
+    color: greenyellow;
+}
+
+#pibe{
+    float: left;
+    width: 100%;
+}
+
+#imagenPoderosa{
+    float: left;
+    width: 45%;
+}
+
+
+#escrituras{
+    float: left;
+    width: 40%;
+}
+
+#escrituras p{
+    font-size: 27px;
+   
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+
+#imagenPoderosa img{
+    width: 40%;
+    height: 40%;
+    margin-left: 50%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+
+
+
 #maincra2{
     float: left;
     width: 100%;
